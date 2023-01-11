@@ -1,0 +1,62 @@
+{"msg":"Loading plugins","section":"","timestamp":"2023-01-11T18:29:23.335Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin container","section":"","timestamp":"2023-01-11T18:29:23.741Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin exec","section":"","timestamp":"2023-01-11T18:29:23.756Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin hadolint","section":"","timestamp":"2023-01-11T18:29:23.759Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin kubernetes","section":"","timestamp":"2023-01-11T18:29:23.843Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin local-kubernetes","section":"","timestamp":"2023-01-11T18:29:23.853Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin octant","section":"","timestamp":"2023-01-11T18:29:23.854Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin openfaas","section":"","timestamp":"2023-01-11T18:29:23.865Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin google-app-engine","section":"","timestamp":"2023-01-11T18:29:23.869Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin google-cloud-function","section":"","timestamp":"2023-01-11T18:29:23.871Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin local-google-cloud-functions","section":"","timestamp":"2023-01-11T18:29:23.872Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin npm-package","section":"","timestamp":"2023-01-11T18:29:23.872Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin templated","section":"","timestamp":"2023-01-11T18:29:23.878Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin conftest","section":"","timestamp":"2023-01-11T18:29:23.884Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin conftest-container","section":"","timestamp":"2023-01-11T18:29:23.884Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin conftest-kubernetes","section":"","timestamp":"2023-01-11T18:29:23.885Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin jib","section":"","timestamp":"2023-01-11T18:29:23.904Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin maven-container","section":"","timestamp":"2023-01-11T18:29:23.915Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin terraform","section":"","timestamp":"2023-01-11T18:29:23.938Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugin pulumi","section":"","timestamp":"2023-01-11T18:29:23.956Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin container","section":"","timestamp":"2023-01-11T18:29:23.958Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin container","section":"","timestamp":"2023-01-11T18:29:24.265Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin hadolint","section":"","timestamp":"2023-01-11T18:29:24.265Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin hadolint","section":"","timestamp":"2023-01-11T18:29:24.270Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin jib","section":"","timestamp":"2023-01-11T18:29:24.270Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin jib","section":"","timestamp":"2023-01-11T18:29:24.274Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin kubernetes","section":"","timestamp":"2023-01-11T18:29:24.274Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin kubernetes","section":"","timestamp":"2023-01-11T18:29:24.278Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin local-kubernetes","section":"","timestamp":"2023-01-11T18:29:24.278Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin local-kubernetes","section":"","timestamp":"2023-01-11T18:29:24.280Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin octant","section":"","timestamp":"2023-01-11T18:29:24.280Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin octant","section":"","timestamp":"2023-01-11T18:29:24.283Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin openfaas","section":"","timestamp":"2023-01-11T18:29:24.283Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin openfaas","section":"","timestamp":"2023-01-11T18:29:24.288Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin google-app-engine","section":"","timestamp":"2023-01-11T18:29:24.288Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin google-app-engine","section":"","timestamp":"2023-01-11T18:29:24.295Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin google-cloud-function","section":"","timestamp":"2023-01-11T18:29:24.295Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin google-cloud-function","section":"","timestamp":"2023-01-11T18:29:24.297Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin local-google-cloud-functions","section":"","timestamp":"2023-01-11T18:29:24.297Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin local-google-cloud-functions","section":"","timestamp":"2023-01-11T18:29:24.300Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin exec","section":"","timestamp":"2023-01-11T18:29:24.300Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin exec","section":"","timestamp":"2023-01-11T18:29:24.304Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin npm-package","section":"","timestamp":"2023-01-11T18:29:24.304Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin npm-package","section":"","timestamp":"2023-01-11T18:29:24.306Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin templated","section":"","timestamp":"2023-01-11T18:29:24.306Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin templated","section":"","timestamp":"2023-01-11T18:29:24.308Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin conftest","section":"","timestamp":"2023-01-11T18:29:24.308Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin conftest","section":"","timestamp":"2023-01-11T18:29:24.310Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin conftest-container","section":"","timestamp":"2023-01-11T18:29:24.310Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin conftest-container","section":"","timestamp":"2023-01-11T18:29:24.312Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin conftest-kubernetes","section":"","timestamp":"2023-01-11T18:29:24.312Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin conftest-kubernetes","section":"","timestamp":"2023-01-11T18:29:24.314Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin maven-container","section":"","timestamp":"2023-01-11T18:29:24.314Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin maven-container","section":"","timestamp":"2023-01-11T18:29:24.319Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin terraform","section":"","timestamp":"2023-01-11T18:29:24.320Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin terraform","section":"","timestamp":"2023-01-11T18:29:24.326Z","level":"silly","allSections":[]}
+{"msg":"Validating plugin pulumi","section":"","timestamp":"2023-01-11T18:29:24.326Z","level":"silly","allSections":[]}
+{"msg":"Done loading plugin pulumi","section":"","timestamp":"2023-01-11T18:29:24.330Z","level":"silly","allSections":[]}
+{"msg":"Loaded plugins: exec, container, templated, local-kubernetes","section":"","timestamp":"2023-01-11T18:29:24.332Z","level":"silly","allSections":[]}
+{"msg":"Done flushing all events and log entries.","section":"","timestamp":"2023-01-11T18:29:24.340Z","level":"debug","allSections":[]}
+{"msg":"Tracking Run Command event.\nPayload:\n  {\"anonymousId\":\"a1beaf47-3f1a-4187-9046-f3ffe0109f7f\",\"event\":\"Run Command\",\"properties\":{\"projectId\":\"1cd1f9fc2bd7a582eab2162687748f2cf842cba4aff51b30445f8436d494e5e94a9d05432ea4675f82d6cedc3cd63b0f6f540be3cdad628f38e0b9249f2093f7\",\"projectIdV2\":\"adjoining-wrathful-panic_1cd1f9fc2bd7a582eab2162687748f2c\",\"projectName\":\"1ba5000e2335234f183fe1e14779e0b9649d79672871d178275cb14a4d7907bcf9f921cf3c81e0734f136ca2c53f8bcecc16a6ecfbdabc102a2a055e2d18daf8\",\"projectNameV2\":\"silly-chief-suck_1ba5000e2335234f183fe1e14779e0b9\",\"isLoggedIn\":false,\"ciName\":null,\"system\":{\"platform\":\"darwin\",\"platformVersion\":\"21.6.0\",\"gardenVersion\":\"0.12.46\"},\"isCI\":false,\"sessionId\":\"baea6ae6-682d-4244-9b16-ca56002d7961\",\"projectMetadata\":{\"modulesCount\":0,\"moduleTypes\":[],\"tasksCount\":0,\"servicesCount\":0,\"testsCount\":0},\"name\":\"tools\"}}","section":"","timestamp":"2023-01-11T18:29:24.666Z","level":"silly","allSections":[]}
+{"msg":"Done flushing all events and log entries.","section":"","timestamp":"2023-01-11T18:29:24.844Z","level":"debug","allSections":[]}
