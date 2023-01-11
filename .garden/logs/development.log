@@ -1,0 +1,5 @@
+
+[2023-01-10T23:49:16.255Z] Thanks for installing Garden! We work hard to provide you with the best experience we can. We collect some anonymized usage data while you use Garden. If you'd like to know more about what we collect or if you'd like to opt out of telemetry, please read more at https://github.com/garden-io/garden/tree/0.12.46/docs/misc/telemetry.md
+
+[2023-01-10T23:49:23.225Z] A new version of Garden has been released (0.12.48).
+Please use the "garden self-update" command or run "brew upgrade garden-cli" to upgrade to the latest version.
